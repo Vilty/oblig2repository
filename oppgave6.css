@@ -1,0 +1,32 @@
+#artikkelBody {
+    width: 100;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#artikkelNav {
+    background-color: white;
+    display: none;
+}
+
+#artikkelIkkebrukt {
+    background-color: white;
+}
+
+#artikkelIkkebrukt2 {
+    background-color: white;
+}
+
+#artikkelHeader {
+    background-image: none;
+    border: 2px solid black;
+}
+
+#artikkelh1 {
+    color: black;
+    display: none;
+}
+
+#artikkelFooter {
+    background-color: white;
+}
